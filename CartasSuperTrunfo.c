@@ -148,7 +148,7 @@ int main(){
         printf("Resultado: Carta 2 venceu: (%s): %d\n", cidade2, pontos2);
 }
 
-//Estrutura de decisão Atributo ( densidade )
+//Estrutura de decisão Atributo ( Densidade Populacional )
     printf("\nAtributo: Densidade Populacional:\n");
     printf("Carta 1: (%s): %.2f hab/km²\nCarta 2: (%s): %.2fhab/km²\n", cidade1, densidade1, cidade2, densidade2);
     if(densidade1 < densidade2) {
